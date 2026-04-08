@@ -2,7 +2,7 @@ package com.pu.java_cicd;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
-public class AddtwonumberTest {
+
 	public class AddTwoNumberTest {
 	    @Test
 	    void testAdd()
@@ -19,4 +19,4 @@ public class AddtwonumberTest {
 	        assertEquals(-1, result, "Subtraction should return -1");
 	    }
 	}
-}
+
