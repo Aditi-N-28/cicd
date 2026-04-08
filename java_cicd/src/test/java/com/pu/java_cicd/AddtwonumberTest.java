@@ -3,7 +3,7 @@ package com.pu.java_cicd;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-	public class AddTwoNumberTest {
+	public class AddtwonumberTest {
 	    @Test
 	    void testAdd()
 	 {
